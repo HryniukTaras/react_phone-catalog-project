@@ -130,9 +130,19 @@ Each category page includes:
 - [🔗 Light Theme – Figma](<https://www.figma.com/file/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog-(V2)-Original>)
 - [🌙 Dark Theme – Figma](<https://www.figma.com/file/BUusqCIMAWALqfBahnyIiH/Phone-catalog-(V2)-Original-Dark>)
 
-## DEMO Link
+## 🌐 DEMO Link
 
 - [GitHub Pages](https://hryniuktaras.github.io/react_phone-catalog/)
+
+---
+
+## 🛠️ Technologies Used
+
+- **React**
+- **Redux**
+- **TypeScript**
+- **HTML**
+- **SCSS**
 
 ---
 
